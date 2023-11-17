@@ -1,6 +1,8 @@
 # JPacman
 
-[![Build Status](https://travis-ci.com/SERG-Delft/jpacman.svg?branch=master)](https://travis-ci.com/SERG-Delft/jpacman)
+![Build Status](https://github.com/Neadnapa/jpacman/actions/workflows/myworkflow.yml/badge.svg) 
+![Coverage](Neadnapa.github/badges/jacoco.svg)
+![Branches](Neadnapa.github/badges/branches.svg)
 
 ## About
 
